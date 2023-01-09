@@ -2,7 +2,7 @@
 # 👋 Hi there!
 
 #### Welcome my github page 💙
-#### I'm a junior programmer 🧑‍💻 and student 🙋‍♂
+#### I'm a junior programmer 🧑‍💻 and a student 🙋‍♂
 #### I will be the best developer 🤩
 <br>
 <hr>
