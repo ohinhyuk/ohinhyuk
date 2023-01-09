@@ -13,7 +13,8 @@
   <br>
   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dhdlsgur52)](https://solved.ac/dhdlsgur52)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dhdlsgur52)](https://solved.ac/dhdlsgur52)  
+<br>
 <hr>
 
-## Thank U 🙏
+## 🙏 Thank U 
